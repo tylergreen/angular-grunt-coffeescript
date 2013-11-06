@@ -1,13 +1,10 @@
 {
-    "name": "angular-grunt-coffeescript",
-    "author": "Roy Truelove <roytruelove@gmail.com>",
+    "name": "angular-grunt-coffee",
+    "author": "Tyler Green",
     "description": "Seed project for large angularJs / grunt / coffeescrpt projects",
-    "bugs" : {
-        "url": "https://github.com/roytruelove/angular-grunt-coffeescript/issues"
-    },
     "repository": {
         "type": "git",
-        "url": "git://github.com/roytruelove/angular-grunt-coffeescript.git"
+        "url": "git://github.com/tylergreen/angular-grunt-coffeescript.git"
     },
     "engines": {
         "node": ">= 0.8.4"
